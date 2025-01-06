@@ -16,4 +16,4 @@
 
 🖥 Meus contatos: Instagram - https://www.instagram.com/gabriel_miyaki/ YouTube - https://www.youtube.com/@digorem1336
 
-📧 Meu e-mail: gabriel.miyaki@sou.inteli.edu.br
+📧 Meu e-mail para contato: gabriel.miyaki@sou.inteli.edu.br
