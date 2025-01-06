@@ -1,16 +1,19 @@
-## Hi there 👋
+## Bem-vindos!/Welcome! ⛷
 
-<!--
-**gabriel-miyaki/gabriel-miyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ Meu nome é Gabriel Miyaki Nascimento
 
-Here are some ideas to get you started:
+💻 Estudante no Inteli, curso ADM TECH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Ainda iniciante em tecnologia
+
+🆙 Espero realizar contribuições para um futuro melhor
+
+✔ Estou sempre aberto para sugestões
+
+📚 Meu grande hobby é escrever e contar histórias, gosto de jogar videogames e da cultura geek
+
+🤝 Meu buddy: https://github.com/Lukovsk
+
+🖥 Meus contatos: Instagram - https://www.instagram.com/gabriel_miyaki/ YouTube - https://www.youtube.com/@digorem1336
+
+📧 Meu e-mail: gabriel.miyaki@sou.inteli.edu.br
