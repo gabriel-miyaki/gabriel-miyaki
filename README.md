@@ -2,15 +2,13 @@
 
 ✅ Meu nome é Gabriel Miyaki Nascimento
 
-💻 Estudante no Inteli, curso ADM TECH
-
 📱 Ainda iniciante em tecnologia
 
 🆙 Espero realizar contribuições para um futuro melhor
 
 ✔ Estou sempre aberto para sugestões
 
-📚 Meu grande hobby é escrever e contar histórias, gosto de jogar videogames e da cultura geek
+📚 Meu grande hobby é contar histórias e por isso escrevo livros, gosto de jogar videogames e da cultura geek
 
 🤝 Meu buddy: https://github.com/Lukovsk
 
